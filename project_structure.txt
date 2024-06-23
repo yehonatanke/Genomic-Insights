@@ -1,0 +1,42 @@
+Genomic Insights/
+│
+├── src/
+│   ├── __init__.py
+│   ├── analysis/
+│   │   ├── __init__.py
+│   │   ├── dna_analyzer.py
+│   │   └── sequence_clustering.py
+│   ├── visualization/
+│   │   ├── __init__.py
+│   │   └── plots.py
+│   └── utils/
+│       ├── __init__.py
+│       └── logger.py
+│
+├── tests/
+│   ├── __init__.py
+│   ├── test_dna_analyzer.py
+│   ├── test_sequence_clustering.py
+│   └── test_plots.py
+│
+├── data/
+│   └── sequences.fasta
+│
+├── scripts/
+│   └── run_analysis.py
+│
+├── requirements.txt
+├── setup.py
+├── .gitignore
+├── README.md
+└── project_structure.txt
+
+
+Overview:
+
+- `src/`: Contains the main source code, divided into analysis, visualization, and utility modules.
+- `tests/`: Contains unit tests for each main module.
+- `data/`: Stores input data files.
+- `scripts/`: Contains the main script to run the analysis.
+- `docs/`: For additional documentation (currently just includes a copy of the main README).
+- Root directory: Contains project-wide configuration files and the main README.
