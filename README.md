@@ -39,7 +39,7 @@ GenomicInsights simulates these analytical processes, providing a practical tool
 - k-mer frequency analysis
 - Sequence clustering
 - Result visualization
-- 
+  
 ## Usage
 
 1. Prepare a FASTA file with a DNA sequences and save it as `sequences.fasta` in the `data` directory.
