@@ -1,4 +1,4 @@
-Genomic Insights/
+Genomic-Insights/
 │
 ├── src/
 │   ├── __init__.py
@@ -29,6 +29,7 @@ Genomic Insights/
 ├── setup.py
 ├── .gitignore
 ├── README.md
+├── LICENSE
 └── project_structure.txt
 
 
