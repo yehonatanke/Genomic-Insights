@@ -61,4 +61,4 @@ print(f"GC content of Sequence1: {gc_content}%")
 ```
 
 ## License
-This project is licensed under the [MIT License](https://github.com/yehonatanke/Thyroid-Predict-ML/blob/main/LICENSE).
+This project is licensed under the [MIT License](https://github.com/yehonatanke/Genomic-Insights/blob/main/LICENSE).
