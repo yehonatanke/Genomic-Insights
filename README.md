@@ -21,11 +21,29 @@ These analyses provide a multi-faceted view of DNA sequences, offering insights 
 
 GenomicInsights simulates these analytical processes, providing a practical tool for researchers and students to explore fundamental concepts in DNA sequence analysis. While it doesn't replace advanced bioinformatics pipelines, it serves as an educational and exploratory tool for understanding the basics of genomic data analysis.
 
-## Features
+## Core Functionalities
 
+### Sequence Analysis
+- DNA sequence analysis and manipulation
 - GC content analysis
-- Motif identification
-- k-mer frequency analysis
+- Motif identification and analysis
+- K-mer frequency analysis
 - Sequence clustering
-- Result visualization
-  
+
+### Machine Learning Applications
+- Sequence Classification
+  - Feature extraction from DNA sequences
+  - GC/AT content analysis
+  - K-mer frequency analysis
+  - Random Forest-based classification
+
+- Motif Prediction
+  - Sliding window approach
+  - Feature extraction from sequence windows
+  - Position-based motif prediction
+  - Random Forest-based prediction
+
+### Supporting Tools
+- Logging system for experiment tracking
+- Data visualization utilities
+- Sequence clustering algorithms
