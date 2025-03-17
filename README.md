@@ -1,18 +1,7 @@
-<div align="center">
-  <img src="https://img.shields.io/badge/language-Python-%233776AB.svg?logo=python">
-  <img src="https://custom-icon-badges.demolab.com/github/license/denvercoder1/custom-icon-badges?logo=law">
-</div>
 
 # <p align="center"> Genomic Insights </p>
 
 Genomic Insights is a DNA sequence analysis tool providing insights into sequence characteristics, GC content, and motif structures.
-
-## Table of Contents
-- [Background](#background)
-- [Features](#features)
-- [Usage](#usage)
-- [Example](#example)
-- [License](#license)
 
 ## Background
 
