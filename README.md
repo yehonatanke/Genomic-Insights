@@ -7,6 +7,8 @@ Aspects of DNA sequence analysis:
 - **Motif Identification**: Identifying motifs for understanding gene regulation and protein-DNA interactions.
 - **k-mer Frequency Analysis**: k-mers are subsequences of length k contained within a biological sequence.
 - **Sequence Clustering**: Groups DNA sequences based on their similarity. We use GC content and sequence length as features for clustering.
+- **Variation Analysis** 
+- **Structural Variation Detection:** Identify larger rearrangements.
 
 ## Core Functionalities
 ### Sequence Analysis
