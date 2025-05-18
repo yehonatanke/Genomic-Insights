@@ -27,6 +27,3 @@ class TestPlots(unittest.TestCase):
         plot_kmer_frequency(kmer_freq)
         mock_savefig.assert_called_once_with('kmer_frequency.png')
 
-
-if __name__ == '__main__':
-    unittest.main()
