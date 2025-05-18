@@ -22,6 +22,3 @@ class TestDNAAnalyzer(unittest.TestCase):
         expected_frequency = {"ATG": 2, "TGA": 1}
         self.assertEqual(dict(self.analyzer.get_kmer_frequency(sequence, k=3)), expected_frequency)
 
-
-if __name__ == '__main__':
-    unittest.main()
