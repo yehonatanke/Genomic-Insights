@@ -121,5 +121,3 @@ class TestGenomicModels(unittest.TestCase):
             predictor.train([], [])
 
 
-if __name__ == '__main__':
-    unittest.main() 
