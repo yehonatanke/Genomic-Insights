@@ -25,5 +25,3 @@ class TestSequenceClustering(unittest.TestCase):
         self.assertEqual(_get_gc_content("AATT"), 0.0)
 
 
-if __name__ == '__main__':
-    unittest.main()
