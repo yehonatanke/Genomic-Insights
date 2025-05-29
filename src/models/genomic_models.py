@@ -147,7 +147,7 @@ class MotifPredictor:
         
         Args:
             sequences (list): List of DNA sequences to predict
-            
+             
         Returns:
             list: Predicted motif positions for each sequence
         """
